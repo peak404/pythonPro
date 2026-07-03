@@ -41,8 +41,8 @@ while active:
         active = False
         break
     
-    print("wanna retry again? yes or no")
-    
+    print("wanna retry again? yes or no ")
+
         
         
 
